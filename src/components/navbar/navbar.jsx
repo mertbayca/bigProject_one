@@ -6,7 +6,7 @@ import "./navbar.css"
 const Menu = () => (
   <>
   <p><a href="#home">Home</a></p>
-  <p><a href="#what">What is ScoPrism</a></p>
+  <p><a href="#what">What is ScoPym</a></p>
   <p><a href="#blog">Roadmap</a></p>
   <p><a href="#possibility">Use Cases</a></p>
   <p><a href="#features">Whitepaper</a></p>
