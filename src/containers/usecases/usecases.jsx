@@ -1,14 +1,14 @@
 import React from 'react'
-import possibilityImage from "../../assets/possibility.png"
-import "./possibility.css"
+import usecasesImage from "../../assets/possibility.png"
+import "./usecases.css"
 
-const possibility = () => {
+const usecases = () => {
   return (
-    <div className="gpt3__possibility section__padding" id="possibility">
-      <div className="gpt3__possibility-image">
-        <img src={possibilityImage} alt="possibility"/>
+    <div className="gpt3__usecases section__padding" id="usecases">
+      <div className="gpt3__usecases-image">
+        <img src={usecasesImage} alt="usecases"/>
       </div>
-      <div className="gpt3__possibility-content">
+      <div className="gpt3__usecases-content">
         <h4>Request info to get started</h4>
         <h1 className="gradient__text">Get your business integrated into the ScoPym ecosystem!</h1>
         <p>Once you request info, our team will contact you on getting your business on the blockchain. Don't worry though! 
@@ -22,4 +22,4 @@ const possibility = () => {
   )
 }
 
-export default possibility
+export default usecases
