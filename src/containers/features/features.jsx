@@ -17,7 +17,7 @@ const featuresData = [
   },
   {
     title: "Our Contract Address",
-    text: "0xB842H3I095834REA32747CT8dXDF38",
+    text: "0xB842H3I095834REA32747CT",
   }
 ]
 
