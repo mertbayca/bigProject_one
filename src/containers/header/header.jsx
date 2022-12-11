@@ -11,7 +11,7 @@ const Header = () => {
         <p>ScoPym is the latest state of the art tech, designed to future-proof your business. Using Ethereum blockchain technology, ScoPym aims to get your business ready for web3, no matter what sector you operate in. Subscribe below to get the latest updates and take part in a revolutionary new tech that is sure to disrupt the way digitization happens today.</p>
         <div className="scop__header-content__input">
           <input type="email" placeholder="Your Email Address"/>
-          <button type="button">Subscribe</button>
+          <button type="button">Request Info</button>
         </div>
         <div className="scop__header-content__people">
           <img src={people} alt="people"/>

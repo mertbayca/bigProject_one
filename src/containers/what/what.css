@@ -44,6 +44,11 @@
     margin: 4rem 0 2rem;
 }
 
+.scop__what-heading h1 {
+    flex: 1;
+    font-family: var(--font-family);
+}
+
 .scop__what-container {
     display: flex;
     flex-wrap: wrap;
