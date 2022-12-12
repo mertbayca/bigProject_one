@@ -18,6 +18,10 @@ const featuresData = [
   {
     title: "Our Contract Address",
     text: "0xB842H3I095834REA32747CT",
+  },
+  {
+    title: "Or Buy From Exchanges",
+    text: "Our token is readily available to buy on Binance, Kucoin, Kraken and Coinbase.",
   }
 ]
 
