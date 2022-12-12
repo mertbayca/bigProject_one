@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/crypto_website_project_react/static/css/main.d9e8925b.css",
+    "main.js": "/crypto_website_project_react/static/js/main.a338f625.js",
+    "static/media/ai.png": "/crypto_website_project_react/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/crypto_website_project_react/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/crypto_website_project_react/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/crypto_website_project_react/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/crypto_website_project_react/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/crypto_website_project_react/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/crypto_website_project_react/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/kucoin.png": "/crypto_website_project_react/static/media/kucoin.1052e9d20a10c5492f85.png",
+    "static/media/binance.png": "/crypto_website_project_react/static/media/binance.6c697d1c20971d244190.png",
+    "static/media/kraken.png": "/crypto_website_project_react/static/media/kraken.919cf156f83afbbbc5f6.png",
+    "static/media/coinbase.png": "/crypto_website_project_react/static/media/coinbase.b3af59ea72787760ff2f.png",
+    "static/media/people.png": "/crypto_website_project_react/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/crypto_website_project_react/static/media/logo.613ffd6915746cefad3559973afa378f.svg",
+    "index.html": "/crypto_website_project_react/index.html",
+    "main.d9e8925b.css.map": "/crypto_website_project_react/static/css/main.d9e8925b.css.map",
+    "main.a338f625.js.map": "/crypto_website_project_react/static/js/main.a338f625.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9e8925b.css",
+    "static/js/main.a338f625.js"
+  ]
+}
